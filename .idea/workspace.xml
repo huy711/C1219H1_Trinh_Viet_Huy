@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fe0876a-ef55-40cc-b2f5-120339e2d066" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577163605651</updated>
       <workItem from="1577163607146" duration="614000" />
-      <workItem from="1577186778919" duration="3023000" />
+      <workItem from="1577186778919" duration="3652000" />
     </task>
     <task id="LOCAL-00001" summary="Hoan thanh bai tap 1">
       <created>1577163649913</created>
@@ -87,11 +86,36 @@
       <option name="project" value="LOCAL" />
       <updated>1577204673291</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Hoan thanh bai tap 3">
+      <created>1577236398790</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577236398790</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Hoan thanh bai tap 3">
+      <created>1577236599601</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577236599601</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -101,17 +125,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="Hoan thanh bai tap 3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="329" y="0" key="CommitChangelistDialog2" timestamp="1577236397837">
+    <state x="329" y="0" key="CommitChangelistDialog2" timestamp="1577236598649">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="329" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1577236397837" />
+    <state x="329" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1577236598649" />
     <state x="277" y="56" key="SettingsEditor" timestamp="1577204686835">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577204686835" />
-    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1577236539274">
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1577236666896">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1577236539274" />
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1577236666896" />
   </component>
 </project>
