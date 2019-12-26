@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fe0876a-ef55-40cc-b2f5-120339e2d066" name="Default Changelist" comment="Hoan thanh bai tap 3">
-      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh/java 1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/HienThiDauRa/cau a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/HienThiDauRa/cau b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/HienThiDauRa/cau c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/HienThiDauRa/cau d.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh" beforeDir="false" afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh/ThucHanhNhungJava/NhungJava.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -27,7 +29,7 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan" />
   </component>
   <component name="ProjectId" id="1VPnTXO8c9VuvG2BqRm9T1q5mey" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -44,21 +46,25 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Codegym\Module1\C1219H1_Trinh_Viet_Huy\B1_NhapMonLapTrinhCanBan\BaiTap\bai toan lap" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.java2.html">
-    <configuration name="NhungJava.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C1219H1_Trinh_Viet_Huy/B1_NhapMonLapTrinhCanBan/ThucHanh/ThucHanhNhungJava/NhungJava.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.cau a.html">
+    <configuration name="HienThiDauRa.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C1219H1_Trinh_Viet_Huy/B1_NhapMonLapTrinhCanBan/BaiTap/HienThiDauRa.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="cau a.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C1219H1_Trinh_Viet_Huy/B1_NhapMonLapTrinhCanBan/BaiTap/HienThiDauRa/cau a.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="java 1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C1219H1_Trinh_Viet_Huy/B1_NhapMonLapTrinhCanBan/ThucHanh/java 1.html" useBuiltInWebServerPort="true">
@@ -70,16 +76,13 @@
     <configuration name="java2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C1219H1_Trinh_Viet_Huy/B1_NhapMonLapTrinhCanBan/ThucHanh/java2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="nhungjava1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C1219H1_Trinh_Viet_Huy/B1_NhapMonLapTrinhCanBan/ThucHanh/ThucHanhNhungJava/nhungjava1.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.cau a.html" />
+        <item itemvalue="JavaScript Debug.HienThiDauRa.html" />
         <item itemvalue="JavaScript Debug.java2.html" />
         <item itemvalue="JavaScript Debug.java 1.html" />
         <item itemvalue="JavaScript Debug.java1.html" />
-        <item itemvalue="JavaScript Debug.nhungjava1.html" />
-        <item itemvalue="JavaScript Debug.NhungJava.html" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +113,9 @@
       <workItem from="1577241610277" duration="662000" />
       <workItem from="1577322833110" duration="2399000" />
       <workItem from="1577331202162" duration="3061000" />
-      <workItem from="1577334921584" duration="262000" />
+      <workItem from="1577334921584" duration="1037000" />
+      <workItem from="1577353236380" duration="966000" />
+      <workItem from="1577356781292" duration="1268000" />
     </task>
     <task id="LOCAL-00001" summary="Hoan thanh bai tap 1">
       <created>1577163649913</created>
@@ -175,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577332906972</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Hoan thanh bai tap 3">
+      <created>1577335364649</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1577335364649</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,10 +222,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="85" y="71" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1577331617460" />
-    <state x="277" y="56" key="SettingsEditor" timestamp="1577331529697">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1577354437937">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577331529697" />
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577354437937" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1577357409325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577357409325" />
     <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1577333273465">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
