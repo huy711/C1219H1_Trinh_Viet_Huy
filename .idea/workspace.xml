@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fe0876a-ef55-40cc-b2f5-120339e2d066" name="Default Changelist" comment="Hoan thanh bai tap 3">
-      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai toan lap/Untitled Diagram (1).png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh/ThucHanhNhungJava/NhungJava.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh/C1219H1_Trinh_Viet_Huy" beforeDir="false" />
     </list>
@@ -92,7 +90,7 @@
       <workItem from="1577163607146" duration="614000" />
       <workItem from="1577186778919" duration="4473000" />
       <workItem from="1577241610277" duration="662000" />
-      <workItem from="1577322833110" duration="1641000" />
+      <workItem from="1577322833110" duration="2239000" />
     </task>
     <task id="LOCAL-00001" summary="Hoan thanh bai tap 1">
       <created>1577163649913</created>
