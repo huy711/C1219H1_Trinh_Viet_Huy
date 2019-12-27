@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fe0876a-ef55-40cc-b2f5-120339e2d066" name="Default Changelist" comment="Hoan thanh bai tap 3">
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/4_/Untitled Diagram (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap hien thi dau ra/cau a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap hien thi dau ra/cau b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap hien thi dau ra/cau c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap hien thi dau ra/cau d.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieu  du lieu , toan tu/cauA.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieu  du lieu , toan tu/cauB.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieu  du lieu , toan tu/cauC.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieu  du lieu , toan tu/cauD.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieu  du lieu , toan tu/nhung cau A.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieu  du lieu , toan tu/nhung cau B.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieu  du lieu , toan tu/nhung cau C.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/HienThiDauRa/cau a.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/HienThiDauRa/cau b.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/HienThiDauRa/cau c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/HienThiDauRa/cau d.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/C1219H1_Trinh_Viet_Huy" beforeDir="false" afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/C1219H1_Trinh_Viet_Huy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh" beforeDir="false" afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -115,7 +124,9 @@
       <workItem from="1577331202162" duration="3061000" />
       <workItem from="1577334921584" duration="1037000" />
       <workItem from="1577353236380" duration="966000" />
-      <workItem from="1577356781292" duration="2374000" />
+      <workItem from="1577356781292" duration="2886000" />
+      <workItem from="1577362038150" duration="2543000" />
+      <workItem from="1577409160790" duration="2849000" />
     </task>
     <task id="LOCAL-00001" summary="Hoan thanh bai tap 1">
       <created>1577163649913</created>
@@ -187,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577335364649</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Hoan thanh bai tap 3">
+      <created>1577360239302</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1577360239302</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,10 +236,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="494" y="203" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1577360023551" />
-    <state x="329" y="0" key="CommitChangelistDialog2" timestamp="1577335360952">
+    <state x="329" y="0" key="CommitChangelistDialog2" timestamp="1577360236131">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="329" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1577335360952" />
+    <state x="329" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1577360236131" />
     <state x="85" y="71" key="DiffContextDialog" timestamp="1577331617460">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -234,10 +252,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577357409325" />
-    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1577333273465">
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1577360294863">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1577333273465" />
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1577360294863" />
     <state x="0" y="0" width="759" height="824" key="find.popup" timestamp="1577334935534">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
