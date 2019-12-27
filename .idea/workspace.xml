@@ -3,11 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="7fe0876a-ef55-40cc-b2f5-120339e2d066" name="Default Changelist" comment="Hoan thanh bai tap 3">
       <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/4_/Untitled Diagram (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap chuyen doi tien te/chuyen doi tien te.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap hien thi dau ra/cau a.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap hien thi dau ra/cau b.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap hien thi dau ra/cau c.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap hien thi dau ra/cau d.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/ung dung may tinh/bai tap ung dung may tinh.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/C1219H1_Trinh_Viet_Huy" beforeDir="false" afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/C1219H1_Trinh_Viet_Huy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh" beforeDir="false" afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh" afterDir="false" />
@@ -120,7 +120,7 @@
       <workItem from="1577353236380" duration="966000" />
       <workItem from="1577356781292" duration="2886000" />
       <workItem from="1577362038150" duration="2543000" />
-      <workItem from="1577409160790" duration="8225000" />
+      <workItem from="1577409160790" duration="13279000" />
     </task>
     <task id="LOCAL-00001" summary="Hoan thanh bai tap 1">
       <created>1577163649913</created>
@@ -206,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577412211299</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Hoan thanh bai tap 3">
+      <created>1577418409767</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1577418409767</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
