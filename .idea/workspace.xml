@@ -7,9 +7,12 @@
       <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap hien thi dau ra/cau b.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap hien thi dau ra/cau c.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap hien thi dau ra/cau d.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/case study/yeu cau 1/task1/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/case study/yeu cau 1/task2/task2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/C1219H1_Trinh_Viet_Huy" beforeDir="false" afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/C1219H1_Trinh_Viet_Huy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap chuyen doi tien te/chuyen doi tien te.html" beforeDir="false" afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap chuyen doi tien te/chuyen doi tien te.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/task 1.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/ung dung may tinh/bai tap ung dung may tinh.html" beforeDir="false" afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/ung dung may tinh/bai tap ung dung may tinh.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh" beforeDir="false" afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh" afterDir="false" />
     </list>
@@ -21,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -123,6 +126,7 @@
       <workItem from="1577362038150" duration="2543000" />
       <workItem from="1577409160790" duration="13676000" />
       <workItem from="1577604237257" duration="3294000" />
+      <workItem from="1577623355856" duration="7459000" />
     </task>
     <task id="LOCAL-00001" summary="Hoan thanh bai tap 1">
       <created>1577163649913</created>
@@ -265,10 +269,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="494" y="203" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1577360023551" />
-    <state x="329" y="0" key="CommitChangelistDialog2" timestamp="1577607547978">
+    <state x="329" y="0" key="CommitChangelistDialog2" timestamp="1577630939925">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="329" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1577607547977" />
+    <state x="329" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1577630939925" />
     <state x="85" y="71" key="DiffContextDialog" timestamp="1577331617460">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -281,17 +285,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577357409325" />
-    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1577607491897">
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1577626530606">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1577607491897" />
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1577626530606" />
     <state x="0" y="0" width="759" height="824" key="find.popup" timestamp="1577334935534">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="0" width="759" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1577334935534" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1577418246607">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1577627344807">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1577418246607" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1577627344807" />
   </component>
 </project>
