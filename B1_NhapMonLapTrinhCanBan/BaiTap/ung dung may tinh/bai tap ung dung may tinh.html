@@ -14,32 +14,35 @@
     <button onclick="mutiplication();return false"> mutiplication(*)</button>
     <button onclick="division();return false">division(/)</button>
     <p id="result"></p>
-        <script>
-            function addition() {
-                let soDau = document.getElementById("soDau").value;
-                let soSau = document.getElementById("soSau").value;
-                document.getElementById("result").innerText = soDau*1 + soSau*1;
+    <script>
+        function addition() {
+            let soDau = document.getElementById("soDau").value;
+            let soSau = document.getElementById("soSau").value;
+            document.getElementById("result").innerText = soDau * 1 + soSau * 1;
+        }
+
+        function subtration() {
+            let soDau = document.getElementById("soDau").value;
+            let soSau = document.getElementById("soSau").value;
+            document.getElementById("result").innerText = soDau * 1 - soSau * 1;
+        }
+
+        function mutiplication() {
+            let soDau = document.getElementById("soDau").value;
+            let soSau = document.getElementById("soSau").value;
+            document.getElementById("result").innerText = soDau * 1 * soSau * 1;
+        }
+
+        function division() {
+            let soDau = document.getElementById("soDau").value;
+            let soSau = document.getElementById("soSau").value;
+            if (soSau * 1 === 0) {
+                document.getElementById("result").innerText = error;
+            } else {
+                document.getElementById("result").innerText = soDau * 1 / soSau * 1;
             }
-            function subtration(){
-                let soDau =document.getElementById("soDau").value;
-                let soSau =document.getElementById("soSau").value;
-                document.getElementById("result").innerText= soDau*1 - soSau*1;
-            }
-            function mutiplication(){
-                let soDau =document.getElementById("soDau").value;
-                let soSau =document.getElementById("soSau").value;
-                document.getElementById("result").innerText= soDau*1 * soSau*1;
-            }
-            function division() {
-                let soDau = document.getElementById("soDau").value;
-                let soSau = document.getElementById("soSau").value;
-                if (soSau *1 ===0) {
-                    document.getElementById("result").innerText = error;
-                }else{
-                    document.getElementById("result").innerText=soDau*1 / soSau*1;
-            }
-            }
-        </script>
+        }
+    </script>
 </form>
 </body>
 </html>
