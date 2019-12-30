@@ -37,7 +37,7 @@ function ShowInfo() {
 
 
     console.log(getName);
-    alert('Name' + getName);
+   // alert('Name' + getName);
     alert('CMND' + getCMND);
     alert('birthday' + getBirthday);
     alert('Email' + getEmail);

@@ -2,17 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fe0876a-ef55-40cc-b2f5-120339e2d066" name="Default Changelist" comment="Hoan thanh bai tap 3">
-      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/4_/Untitled Diagram (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap hien thi dau ra/cau a.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap hien thi dau ra/cau b.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap hien thi dau ra/cau c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap hien thi dau ra/cau d.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/2_chuyendoitiente/chuyen doi tien te.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/baitap3moTaThuatToan/Untitled Diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/baitoanlap/Untitled Diagram (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieudulieu,toantu/cauA.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieudulieu,toantu/cauB.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieudulieu,toantu/cauC.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieudulieu,toantu/cauD.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieudulieu,toantu/nhungcauA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieudulieu,toantu/nhungcauB.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieudulieu,toantu/nhungcauC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieudulieu,toantu/nhungcauD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/casestudy/yeucau1/task1/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/casestudy/yeucau1/task2/task2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/chuyendoitiente/chuyendoitiente.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/ungdungmaytinh/ungdungmaytinh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh/case_switch/luyentap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh/if_else/luyentap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh/kiemtranamnhuan/kiemtranamnhuan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh/luyentaptoantu/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh/luyentaptoantu/bai2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/2_chuyen doi tien te/chuyen doi tien te.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/C1219H1_Trinh_Viet_Huy" beforeDir="false" afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/C1219H1_Trinh_Viet_Huy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap chuyen doi tien te/chuyen doi tien te.html" beforeDir="false" afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap chuyen doi tien te/chuyen doi tien te.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/case study/yeu cau 1/task2/task2.js" beforeDir="false" afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/case study/yeu cau 1/task2/task2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/task 1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/ung dung may tinh/bai tap ung dung may tinh.html" beforeDir="false" afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/ung dung may tinh/bai tap ung dung may tinh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap 3 MoTaThuatToan/Untitled Diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap chuyen doi tien te/chuyen doi tien te.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai toan lap/Untitled Diagram (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieu  du lieu , toan tu/cauA.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieu  du lieu , toan tu/cauB.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieu  du lieu , toan tu/cauC.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieu  du lieu , toan tu/cauD.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieu  du lieu , toan tu/nhung cau A.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieu  du lieu , toan tu/nhung cau B.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieu  du lieu , toan tu/nhung cau C.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bien,kieu  du lieu , toan tu/nhung cau D.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/case study/yeu cau 1/task1/task1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/case study/yeu cau 1/task2/task2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/ung dung may tinh/bai tap ung dung may tinh.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh" beforeDir="false" afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +49,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -35,7 +61,7 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh" />
   </component>
   <component name="ProjectId" id="1VPnTXO8c9VuvG2BqRm9T1q5mey" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -126,7 +152,9 @@
       <workItem from="1577409160790" duration="13676000" />
       <workItem from="1577604237257" duration="3294000" />
       <workItem from="1577623355856" duration="7581000" />
-      <workItem from="1577668259357" duration="1096000" />
+      <workItem from="1577668259357" duration="1237000" />
+      <workItem from="1577669639095" duration="252000" />
+      <workItem from="1577675042233" duration="7186000" />
     </task>
     <task id="LOCAL-00001" summary="Hoan thanh bai tap 1">
       <created>1577163649913</created>
@@ -240,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577630942485</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Hoan thanh bai tap 3">
+      <created>1577669502158</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1577669502158</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,14 +311,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="494" y="203" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1577360023551" />
-    <state x="329" y="0" key="CommitChangelistDialog2" timestamp="1577669500628">
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577675965466">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="329" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1577669500628" />
-    <state x="85" y="71" key="DiffContextDialog" timestamp="1577669468775">
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1577675965466" />
+    <state x="329" y="146" width="753" height="678" key="CommitChangelistDialog2" timestamp="1577682363642">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="85" y="71" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1577669468775" />
+    <state x="329" y="146" width="753" height="678" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1577682363642" />
+    <state x="85" y="71" key="DiffContextDialog" timestamp="1577682334526">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="85" y="71" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1577682334526" />
     <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1577354437937">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -300,9 +339,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="0" width="759" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1577334935534" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1577627344807">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1577680788786">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1577627344807" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1577680788786" />
   </component>
 </project>
