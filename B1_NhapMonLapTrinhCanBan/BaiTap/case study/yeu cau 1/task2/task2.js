@@ -37,30 +37,17 @@ function ShowInfo() {
 
 
     console.log(getName);
-    // alert('Tên: ' + getName, 'CMND:' + getCMND)
-            // 'Birthday' + getBirthday,
-            // 'Email' + getEmail,
-            // 'address' + getAddress,
-            // 'customer' + getCustomer,
-            // 'Sale' + getSale,
-            // 'service' + getService,
-            // 'kindofroom' + getKindofroom,
-            // )
-    alert('ten:' + getName,)
-    alert('cmnd:' + getCMND,)
-    alert('Birthday:' + getBirthday,)
-    alert('Email:' + getEmail,)
-    alert('address:' + getAddress,)
-    alert('customer:' + getCustomer,)
-    alert('Sale:' + getSale,)
-    alert('Amount:' + getAmount,)
-    alert('Staytime:' + getStaytime,)
-    alert('service:' + getService,)
-    alert('kindofroom:' + getKindofroom,)
-
-
-
-
+    alert('Name' + getName);
+    alert('CMND' + getCMND);
+    alert('birthday' + getBirthday);
+    alert('Email' + getEmail);
+    alert('Address' + getAddress);
+    alert('Customer' + getCustomer);
+    alert('sale' + getSale);
+    alert('Amount' + getAmount);
+    alert('Staytime'+ getStaytime);
+    alert('Service' + getService);
+    alert('Kindofroom' + getKindofroom);
 
 
 

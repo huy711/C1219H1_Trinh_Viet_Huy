@@ -7,11 +7,10 @@
       <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap hien thi dau ra/cau b.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap hien thi dau ra/cau c.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap hien thi dau ra/cau d.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/case study/yeu cau 1/task1/task1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/case study/yeu cau 1/task2/task2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/C1219H1_Trinh_Viet_Huy" beforeDir="false" afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/C1219H1_Trinh_Viet_Huy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap chuyen doi tien te/chuyen doi tien te.html" beforeDir="false" afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/bai tap chuyen doi tien te/chuyen doi tien te.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/case study/yeu cau 1/task2/task2.js" beforeDir="false" afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/case study/yeu cau 1/task2/task2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/task 1.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/ung dung may tinh/bai tap ung dung may tinh.html" beforeDir="false" afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/ung dung may tinh/bai tap ung dung may tinh.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh" beforeDir="false" afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh" afterDir="false" />
@@ -126,7 +125,8 @@
       <workItem from="1577362038150" duration="2543000" />
       <workItem from="1577409160790" duration="13676000" />
       <workItem from="1577604237257" duration="3294000" />
-      <workItem from="1577623355856" duration="7459000" />
+      <workItem from="1577623355856" duration="7581000" />
+      <workItem from="1577668259357" duration="1096000" />
     </task>
     <task id="LOCAL-00001" summary="Hoan thanh bai tap 1">
       <created>1577163649913</created>
@@ -233,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577607549503</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Hoan thanh bai tap 3">
+      <created>1577630942485</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1577630942485</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,14 +276,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="494" y="203" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1577360023551" />
-    <state x="329" y="0" key="CommitChangelistDialog2" timestamp="1577630939925">
+    <state x="329" y="0" key="CommitChangelistDialog2" timestamp="1577669500628">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="329" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1577630939925" />
-    <state x="85" y="71" key="DiffContextDialog" timestamp="1577331617460">
+    <state x="329" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1577669500628" />
+    <state x="85" y="71" key="DiffContextDialog" timestamp="1577669468775">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="85" y="71" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1577331617460" />
+    <state x="85" y="71" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1577669468775" />
     <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1577354437937">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
